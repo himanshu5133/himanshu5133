@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/himanshu__koli_" target="blank"><img src="https://img.shields.io/twitter/follow/himanshu__koli_?logo=twitter&style=for-the-badge" alt="himanshu__koli_" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js and Angular**
+- 🌱 I’m currently Working as a SDE and my tech stacks are Golang and PHP.
 
-- 💬 Ask me about **MEAN**
+- 💬 Ask me about **Golang**
 
-- 📫 How to reach me **himanshu.koli.eee20@itbhu.ac.in**
+- 📫 How to reach me **koliv5936@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
