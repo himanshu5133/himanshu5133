@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently working as an SDE with Golang and PHP as my core tech stack.  
+- 🌱 I’m currently working as an SDE with Golang and Java as my core tech stack.  
 - 💬 Ask me about **Golang**  
 - 📫 Reach me at **koliv5936@gmail.com**
 
